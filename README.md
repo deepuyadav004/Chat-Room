@@ -1,6 +1,6 @@
 # Simple-Chat-Room
 The repo contains a Multi-Threaded Simple Chat Room developed in C/C++ using TCP/IP protocol of socket programming.
-This project is created for educational purpose to help understand the concept of,
+Concepts included.
 1. Socket Programming 
 2. TCP/IP protocol
 3. Server-Client Applications
